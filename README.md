@@ -9,4 +9,4 @@ Our method contains two stages: the reconstruction image from record data and th
 1. Python/extension compiler latest version
 2. Tensorflow:gpu python3:6
 3. Import necessary Libraries
-4 .We have to install the Modul (Radon Transform): which is a python library capable of helping us to reconstruct real image from raw data.
+4. We have to install the Modul (Radon Transform): which is a python library capable of helping us to reconstruct real image from raw data.
