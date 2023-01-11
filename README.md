@@ -4,8 +4,8 @@ This is the python implementation(Tensorflow) of the deep learning model for rec
 # Experiment Results
 With the goal of reconstruct the image 2D of the structure of the velocity from recorded data.
 Our method contains two stages: the reconstruction image from record data and the prediction process.We can see the result file.
-#Setup
-## Prerequisite
+# Setup
+# Prerequisite
 1.Python/extension compiler latest version
 2.Tensorflow:gpu python3:6
 3.Import necessary Libraries
