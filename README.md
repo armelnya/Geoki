@@ -29,6 +29,7 @@ To be able to evaluate a model neuronal network, we are also need to activate vi
 2.  Anaconda
 3.  Tensorflow/tensorflow:latest-gpu-py3 
 4.  Keras 
+5.  Docker
 ### Documentation
    
 1.  <https://www.tensorflow.org>.
